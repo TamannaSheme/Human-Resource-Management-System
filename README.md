@@ -92,20 +92,12 @@ The system follows the Model-View-Controller (MVC) architecture and incorporates
 - Git & GitHub
 - OOP with Inheritance and Interfaces
 
----
-
-## 🎥 Project Demo
-
-📽️ [Watch Project Presentation Video](https://drive.google.com/drive/folders/1Vwl_tD7WCF72s0r9xJmQRQwm2MLeLBL7?usp=sharing)  
-🔗 [GitHub Repository](https://github.com/tanvirIqbal/hrms-assignment-2)
 
 ---
 
-## 👨‍💻 Contributors
-
-- Tanvir Iqbal – 30437681
+## 👨‍💻 Contributor
 - **Syeda Tamanna Sheme** – 30432670
-- Hansi Nipunika Panwillaarachchi – 30423990
+
 
 ---
 
